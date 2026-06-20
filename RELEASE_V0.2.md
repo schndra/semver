@@ -1,1 +1,3 @@
-release v0.2.0
+release v0.2.
+
+# minor version bump
